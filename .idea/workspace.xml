@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3755f0af-733c-4e3a-89e2-6ec0187a35cf" name="Default" comment="" />
+    <list default="true" id="3755f0af-733c-4e3a-89e2-6ec0187a35cf" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-member-test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestWeb.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +29,8 @@
       <file leaf-file-name="TestWeb.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestWeb.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -50,6 +51,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -128,11 +130,6 @@
             <path>
               <item name="loginWeiXin" type="b2602c69:ProjectViewProjectNode" />
               <item name="loginWeiXin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="loginWeiXin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="loginWeiXin" type="462c0819:PsiDirectoryNode" />
-              <item name="create-member-test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="loginWeiXin" type="b2602c69:ProjectViewProjectNode" />
@@ -299,7 +296,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605431785477</updated>
-      <workItem from="1605431795213" duration="5078000" />
+      <workItem from="1605431795213" duration="5737000" />
     </task>
     <servers />
   </component>
@@ -336,7 +333,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5078000" />
+    <option name="totallyTimeSpent" value="5737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -351,7 +348,7 @@
       <window_info anchor="right" id="Maven Projects" visible="true" weight="0.21816881" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32969698" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32969698" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
@@ -428,11 +425,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestWeb.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>

@@ -2,7 +2,6 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.dataformat.yaml.YAMLFactory;
 
-import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Cookie;
@@ -45,7 +44,7 @@ public class TestWeb {
     }
 
     @Test
-    void testAddMember() throws IOException {
+    void testAddMemberTest() throws IOException {
 
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         driver.get("https://work.weixin.qq.com/wework_admin/frame");
